@@ -1,0 +1,5 @@
+4
+Ryan Portson 5 90 85 88 92 87
+Emanuel Cortez 4 78 81 74 80
+Amy Johnson 6 100 95 98 97 94 96
+Bob Smith 3 65 70 68
