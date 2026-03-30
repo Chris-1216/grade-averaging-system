@@ -11,7 +11,7 @@ This is a simple C++ program that reads student grade data from a file, calculat
 
 ## Files
 - `main.cpp`
-- `grades.txt`
+- `example-grades.txt`
 
 ## Input Format
 The first number in the file is the total number of students.
